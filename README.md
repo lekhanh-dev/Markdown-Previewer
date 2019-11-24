@@ -1,5 +1,5 @@
 # Markdown-Previewer
-Build a Markdown Previewer
+Build a Markdown Previewer. 
 This project used JQuery.
 
 ## Demo
